@@ -1,0 +1,21 @@
+# Core ML + NLP
+torch
+torchvision
+transformers
+accelerate
+sentencepiece
+protobuf
+
+# Images + PDFs
+pillow
+pdf2image
+PyPDF2
+
+# Web UI + exports
+streamlit
+pandas
+openpyxl
+python-dotenv
+
+# Gemini SDK
+google-generativeai
