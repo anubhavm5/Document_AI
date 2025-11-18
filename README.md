@@ -41,5 +41,5 @@ It converts unstructured invoice PDFs/images into structured JSON output — red
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/DocumentAI-Invoice-Extraction.git
+git clone https://github.com/anubhavm5/DocumentAI-Invoice-Extraction.git
 cd DocumentAI-Invoice-Extraction
