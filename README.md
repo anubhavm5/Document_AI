@@ -3,6 +3,7 @@
 
 This project automates the extraction of key information from invoice documents using a combination of **Donut (Document Understanding Transformer)** and the **Google Gemini API**.  
 It converts unstructured invoice PDFs/images into structured JSON output — reducing manual data entry and improving accuracy.
+https://doc-ai1.streamlit.app
 
 ---
 
