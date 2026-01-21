@@ -5,7 +5,6 @@ This project automates the extraction of key information from invoice documents 
 It converts unstructured invoice PDFs/images into structured JSON output — reducing manual data entry and improving accuracy.
 
 
-https://doc-ai1.streamlit.app
 
 ---
 
