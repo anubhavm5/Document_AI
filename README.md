@@ -25,6 +25,9 @@ It converts unstructured invoice PDFs/images into structured JSON output — red
 - Modular & extendable pipeline  
 
 ---
+## WorkFlow
+
+![image alt](https://github.com/anubhavm5/Document_AI/blob/bc1a1e1a02ac2e6465182653f08e50cfdcd6207b/WorkFlow.png)
 
 ## 🧠 Tech Stack
 
